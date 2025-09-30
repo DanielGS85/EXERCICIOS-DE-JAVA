@@ -1,3 +1,4 @@
+
 public class SomadorDeImpares {
     public static void main(String[] args) {
           int soma =0;                         // variavel que vai guardar a soma dos numeros impares 
@@ -10,3 +11,4 @@ public class SomadorDeImpares {
         }
     }
 }
+

@@ -1,3 +1,4 @@
+
 public class Tabuada {
     public static void main(String[] args) {
         int numero = 5; // Você pode alterar esse valor para gerar a tabuada de outro número
@@ -9,3 +10,4 @@ public class Tabuada {
         }
     }
 }
+
