@@ -7,5 +7,5 @@ public class Tabuada {
             System.out.println(numero + " x " + i + " = " + (numero * i));    /* vai imprimir o numero escolhido na variavel numero = 5, o i
                                                                                que vai de 1 a 10 e o resultado da multiplicacao do numero * i. */
         }
-    }    
+    }
 }
